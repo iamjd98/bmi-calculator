@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.c1415ca6.css","mappings":"AAAA,MAGA,qBAAuB,CADvB,YAAa,CADb,UAGA,CAEA,MACI,wBACJ","sources":["index.css"],"sourcesContent":[".body {\nwidth: 100%;\nheight: 100vh;\nbackground-color: white;\n}\n\n.calc {\n    background-color: rgb(191, 199, 206);\n}\n\n"],"names":[],"sourceRoot":""}
